@@ -12,70 +12,70 @@ Python 3.x installed on your system
 <br />
 # Course Content
 <br />
-## Introduction to Python
+**Introduction to Python**<br />
 - What is Python?<br />
 - Installation and setup<br />
 - Your first Python program<br />
 <br />
-## Basic Syntax and Data Types
+**Basic Syntax and Data Types**<br />
 - Variables and data types<br />
 - Numbers, strings, and booleans<br />
 - Type conversion<br />
 - Basic operations<br />
 <br />
-## Operators
+**Operators**<br />
 - Arithmetic operators<br />
 - Comparison operators<br />
 - Logical operators<br />
 - Assignment operators<br />
 <br />
-## Control Structures
+**Control Structures**<br />
 - If statements<br />
 - Loops (for and while)<br />
 - Break and continue<br />
 - Pass statement<br />
 <br />
-## Functions
+**Functions**<br />
 - Function definition<br />
 - Parameters and arguments<br />
 - Return values<br />
 - Scope and lifetime<br />
 <br />
-## Lists and Dictionaries
+**Lists and Dictionaries**<br />
 - List operations<br />
 - List methods<br />
 - Dictionary creation<br />
 - Dictionary methods<br />
 <br />
-## Basic Input/Output
+**Basic Input/Output**<br />
 - Console input/output<br />
 - Formatting output<br />
 - Command line arguments<br />
 <br />
-## Importing Modules
+**Importing Modules**<br />
 - Built-in modules<br />
 - Creating modules<br />
 - Package management<br />
 <br />
-## Exception Handling
+**Exception Handling**<br />
 - Try-except blocks<br />
 - Multiple exceptions<br />
 - Finally clause<<br />
 - Custom exceptions<br />
 <br />
-## File Operations
+**File Operations**<br />
 - Opening and closing files<br />
 - Reading from files<br />
 - Writing to files<br />
 - File handling best practices<br />
 <br />
-## Object-Oriented Programming Basics
+**Object-Oriented Programming Basics**<br />
 - Classes and objects<br />
 - Attributes and methods<br />
 - Inheritance<br />
 - Encapsulation<br />
 <br />
-** Best Practices and Coding Style **
+**Best Practices and Coding Style**<br />
 - PEP 8 overview<br />
 - Naming conventions<br />
 - Code readability tips<br />

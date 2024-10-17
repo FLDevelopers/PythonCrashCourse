@@ -11,8 +11,7 @@ Text editor or IDE (VS Code, PyCharm, etc.)
 Python 3.x installed on your system
 <br />
 # Course Content
-<br />
-## Introduction to Python ##
+### Introduction to Python
 - What is Python?<br />
 - Installation and setup<br />
 - Your first Python program<br />

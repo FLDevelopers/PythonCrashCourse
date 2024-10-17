@@ -1,4 +1,4 @@
-# Python Crash Course< br / >
+# Python Crash Course < br / >
 A comprehensive introduction to Python programming language designed for beginners. This course covers fundamental concepts to get you started with Python development.< br / >
 < br / >
 Course Overview< br / >

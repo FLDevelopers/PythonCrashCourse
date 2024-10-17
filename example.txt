@@ -1,0 +1,3 @@
+This is Python crash course.
+This course is made by Code Hub.
+And I'm learning Python programming language.

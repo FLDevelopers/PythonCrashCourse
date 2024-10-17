@@ -15,66 +15,66 @@ Python 3.x installed on your system
 - What is Python?<br />
 - Installation and setup<br />
 - Your first Python program<br />
-<br />
-**Basic Syntax and Data Types**<br />
+
+### Basic Syntax and Data Types
 - Variables and data types<br />
 - Numbers, strings, and booleans<br />
 - Type conversion<br />
 - Basic operations<br />
-<br />
-**Operators**<br />
+
+### Operators
 - Arithmetic operators<br />
 - Comparison operators<br />
 - Logical operators<br />
 - Assignment operators<br />
-<br />
-**Control Structures**<br />
+
+### Control Structures
 - If statements<br />
 - Loops (for and while)<br />
 - Break and continue<br />
 - Pass statement<br />
-<br />
-**Functions**<br />
+
+### Functions
 - Function definition<br />
 - Parameters and arguments<br />
 - Return values<br />
 - Scope and lifetime<br />
-<br />
-**Lists and Dictionaries**<br />
+
+### Lists and Dictionaries
 - List operations<br />
 - List methods<br />
 - Dictionary creation<br />
 - Dictionary methods<br />
-<br />
-**Basic Input/Output**<br />
+
+### Basic Input/Output
 - Console input/output<br />
 - Formatting output<br />
 - Command line arguments<br />
-<br />
-**Importing Modules**<br />
+
+### Importing Modules
 - Built-in modules<br />
 - Creating modules<br />
 - Package management<br />
-<br />
-**Exception Handling**<br />
+
+### Exception Handling
 - Try-except blocks<br />
 - Multiple exceptions<br />
 - Finally clause<<br />
 - Custom exceptions<br />
-<br />
-**File Operations**<br />
+
+### File Operations
 - Opening and closing files<br />
 - Reading from files<br />
 - Writing to files<br />
 - File handling best practices<br />
-<br />
-**Object-Oriented Programming Basics**<br />
+
+### Object-Oriented Programming Basics
 - Classes and objects<br />
 - Attributes and methods<br />
 - Inheritance<br />
 - Encapsulation<br />
-<br />
-**Best Practices and Coding Style**<br />
+
+### Best Practices and Coding Style
 - PEP 8 overview<br />
 - Naming conventions<br />
 - Code readability tips<br />

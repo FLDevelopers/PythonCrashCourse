@@ -75,7 +75,7 @@ Python 3.x installed on your system
 - Inheritance<br />
 - Encapsulation<br />
 <br />
-## Best Practices and Coding Style
+** Best Practices and Coding Style **
 - PEP 8 overview<br />
 - Naming conventions<br />
 - Code readability tips<br />
